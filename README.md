@@ -13,7 +13,7 @@ HealthLine Assistant is an AI-powered medical information system that:
 ## Technologies Used
 
 ### Core Technologies
-- Python 3.10
+- Python
 - LangChain
 - OpenAI API
 - Pinecone Vector Database
