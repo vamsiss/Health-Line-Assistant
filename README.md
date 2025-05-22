@@ -47,7 +47,7 @@ HealthLine-Assistant/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/KethanPilla/HealthLine-Assistant.git
+git clone https://github.com/vamsiss/Health-Line-Assistant.git
 cd HealthLine-Assistant
 ```
 
