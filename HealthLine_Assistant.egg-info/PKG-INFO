@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: HealthLine-Assistant
+Version: 0.0.1
+Author: Kethan Pilla
+Author-email: kethanpilla11@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
